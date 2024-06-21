@@ -1,4 +1,4 @@
-[![MasterHead](https://marketplace.canva.com/EAENvp21inc/1/0/1600w/canva-simple-work-linkedin-banner-qt_TMRJF4m0.jpg)]
+<img src="https://as1.ftcdn.net/v2/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg" width="900" height="250">
 <h1 align="center">Hi 👋, I'm Ayush Jaiswal</h1>
 <h3 align="center">A passionate Fullstack Developer</h3>
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/1nWNVa5vJE8AAAAC/well-in-that-case-jesse-mills.gif">
